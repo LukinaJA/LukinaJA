@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Julia!
 ## About me:
-- I’m interested in ML, Data Science and Big Data analysis as well as deepening knowledge in these field
+- I’m interested in ML, Data Science and Big Data analysis as well as deepening knowledge in these fields
 - I have background in project management and natural science
 - Professional development courses: Data Science (YandexPracticum - 2023), IT Progect Management (Tomsk State University, WINbd - 2022)
 - Education: Tromsø University (Norway) - Resourse management, Pomor State University (Russia) - Environmental management
