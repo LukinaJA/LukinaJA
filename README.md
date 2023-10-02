@@ -3,7 +3,7 @@
 - I’m interested in ML, Data Science and Big Data analysis as well as deepening knowledge in these fields
 - I have background in project management and natural science
 - Professional development courses: Data Science (YandexPracticum - 2023), IT Project Management (Tomsk State University, WINbd - 2022)
-- Education: Tromsø University (Norway) - Resourse management, Pomor State University (Russia) - Environmental management
+- Education: Tromsø University (Norway) - Resourсe management, Pomor State University (Russia) - Environmental management
 ### Me technology stack: 
 Python, SQL, Pandas, Matplotlib, Seaborn, Numpy, nltk, TensorFlow, SpaCy, SciPy, Phik,  LightGBM, CatBoost, EDA
 #### In addition:
