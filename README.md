@@ -3,11 +3,11 @@
 - I’m interested in ML, Data Science and Big Data analysis as well as deepening knowledge in these fields
 - I have a background in project management and natural science
 - Professional development courses: Data Science (YandexPracticum - 2023), IT Project Management (Tomsk State University, WINbd - 2022)
-- Education: Tromsø University (Norway) - Resource management, Pomor State University (Russia) - Environmental management
+- Education: Tromsø University (Norway) - Arctic Natural Resource Management, Pomor State University (Russia) - Environmental management
 ### Me technology stack: 
 Python, SQL, Pandas, Matplotlib, Seaborn, Numpy, nltk, TensorFlow, SpaCy, SciPy, Phik,  LightGBM, CatBoost, EDA
 #### In addition:
-Waterfall PM, Agile PM
+Waterfall PM, Agile PM, Marine Ecology
 
 ## 📫 How to reach me https://t.me/julielukina
 
